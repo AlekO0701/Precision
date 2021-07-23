@@ -1,4 +1,4 @@
-Задача №2 - Precision
+Задача - Precision
 
 Легенда
 
